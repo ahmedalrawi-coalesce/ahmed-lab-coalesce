@@ -1,0 +1,17 @@
+fileVersion: 1
+id: "2"
+mappingDefinitions:
+  CUSTOMER:
+    database: FROSTBYTE_TASTY_BYTES
+    schema: RAW_CUSTOMER
+  POS:
+    database: FROSTBYTE_TASTY_BYTES
+    schema: RAW_POS
+  SAMPLE:
+    database: COALESCE_SAMPLE_DATABASE
+    schema: TPCH_SF001
+  WORK:
+    database: AHMEDA_DEV
+    schema: PUBLIC
+name: TheRawi
+type: Environment
